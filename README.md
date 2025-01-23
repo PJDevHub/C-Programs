@@ -7,6 +7,7 @@ This repository contains a collection of C# programs, each demonstrating differe
 - Basic Arithmetic Operations (Add, Subtract, Multiply, Divide)
 - Factorial Calculator
 - Even/Odd Number Checker
+- Prime number Checker 
 - More C# Projects coming soon...
 
 ## List of C# Programs
