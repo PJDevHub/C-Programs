@@ -13,5 +13,4 @@ class Program{
         
         Console.WriteLine("The sum of the first ten natural numbers is: /" + sum);
     }
-
 }
